@@ -1,0 +1,8 @@
+com\shopee\customer\CustomerDAO.class
+com\shopee\customer\CustomerRegisterServlet.class
+com\shopee\config\HibernateConfig.class
+com\shopee\customer\CustomerServlet.class
+com\shopee\filter\SimpleFilter.class
+com\shopee\HomeServlet.class
+com\shopee\customer\Customer.class
+com\shopee\LoginServlet.class
